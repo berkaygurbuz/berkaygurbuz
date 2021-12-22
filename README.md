@@ -1,7 +1,7 @@
 ### Hi there, welcome to the my github profile 👋
 
 
-I'm Berkay, living in İstanbul/Turkey. I'm a computer engineering student at Arel University.
+I'm Berkay, living in Istanbul. I'm a Software Developer at Clouxart.
 
 ### Currently learning and working on:
 
